@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheesh20&label=Profile%20views&color=0e75b6&style=flat" alt="asheesh20" /> </p>
 
-- 🌱 I’m currently learning how to  **React**
+- 🌱 I’m currently learning   **React**
 
 - 💬 Ask me about **Data Structures and Algorithm**
 
